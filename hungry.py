@@ -6,3 +6,4 @@ if hungry=='yes':
 else:
     print('do your work')
     print("go for play")
+    print("thirsty")
